@@ -194,6 +194,9 @@ p {
     top: 0;
     right: 0;
 }
+.navlink .fa-bars {
+    display: block;
+}
 .hidemenu {
     padding: 55px;
 }
