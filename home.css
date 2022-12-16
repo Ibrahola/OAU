@@ -23,7 +23,6 @@ font-family: 'Xanh Mono', monospace;
     padding: 100px;
     box-sizing: border-box;
 }
-
 .navlink ul li  {
     display: inline-flex;
     justify-content: space-between;
