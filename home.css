@@ -17,7 +17,7 @@ font-family: 'Xanh Mono', monospace;
     width: 100%;
     margin: auto;
     text-align: center;
-    background-image: linear-gradient(rgba(4,9,30,0.5),rgba(4,9,30,0.5)),url(/images/mjWVz9E.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.5),rgba(4,9,30,0.5)),url(/mjWVz9E.jpeg);
     background-size: cover;
     background-position: center;
     padding: 100px;
@@ -143,6 +143,9 @@ p {
 }
 .nav {
     position: relative;
+}
+.navlink .fa-bars{
+    display: none;
 }
 
 
